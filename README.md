@@ -2,6 +2,7 @@
 
 [![Fuzzing Status](https://oss-fuzz-build-logs.storage.googleapis.com/badges/suricata.svg)](https://bugs.chromium.org/p/oss-fuzz/issues/list?sort=-opened&can=1&q=proj:suricata)
 [![codecov](https://codecov.io/gh/OISF/suricata/branch/main/graph/badge.svg?token=QRyyn2BSo1)](https://codecov.io/gh/OISF/suricata)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMHam647%2Fsuricata.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FMHam647%2Fsuricata?ref=badge_shield)
 
 ## Introduction
 
@@ -142,3 +143,7 @@ A: Yes, we do this to keep the ownership of Suricata in one hand: the
 Open Information Security Foundation. See
 http://suricata.io/about/open-source/ and
 http://suricata.io/about/contribution-agreement/
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FMHam647%2Fsuricata.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FMHam647%2Fsuricata?ref=badge_large)
